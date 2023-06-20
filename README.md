@@ -1,6 +1,6 @@
 mxnet,
 gluonnlp==0.8.0,
-tqdm pandas,
+tqdm, pandas,
 sentencepiece,
 transformers,
 torch
