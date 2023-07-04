@@ -11,6 +11,6 @@ AI 한국어 언어 모델을 통해 아이러니 처리에 대비 효과를 적
 * transformers
 * torch
 
-## 📌 KoBERT(Demo) 모델이 작동하는지 확인하기 위해 활용한 감성 데이터셋 
-* 감정 분류를 위한 대화 음성 데이터셋 - 5차년도(2차) 19,374
--https://aihub.or.kr/aihubdata/data/view. docurrMenu=&topMenu=&dataSetSn=263&aihubDataSe=extrldata)https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&dataSetSn=263&aihubDataSe=extrldata
+## 📌 KoBERT(Demo) 모델 확인을 위한 감성 데이터셋 
+* 감정 분류를 위한 대화 음성 데이터셋 - 5차년도(2차) **19,374**
+- https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=263
