@@ -5,7 +5,6 @@ AI 한국어 언어 모델을 통해 아이러니 처리에 대비 효과를 적
 2) KoBERT를 통한 코사인 유사도 계산 수행
 
 
-
 mxnet,
 gluonnlp==0.8.0,
 tqdm, pandas,
