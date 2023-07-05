@@ -11,6 +11,6 @@
 * transformers
 * torch
 
-## 📌 KoBERT(Demo) 모델 확인을 위한 감성 데이터셋 
+## 📌 KoBERT(Demo) 분류기 확인을 위한 감성 데이터셋 
 * 감정 분류를 위한 대화 음성 데이터셋 - 5차년도(2차) **19,374**
   - https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=263
